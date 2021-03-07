@@ -9,4 +9,4 @@ Our approach and most of the reasoning behind it can be found in the main.ipynb 
 
 The report (DM_report_Volcaninc_Eruptions...) can be consulted for additional information about the project.
 
-Note this project was a team effort(2 people), but it stil gives an acurate representation of my knowldeg regarding the used techniques. 
+Note this project was a team effort(2 people), but it still gives an accurate representation of my knowldge regarding the used techniques. 
