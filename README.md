@@ -2,7 +2,8 @@
 
 This project is based on the data set kindly provided by Italy's Istituto Nazionale di Geofisica e Vulcanologia (INGV).
 
-The project is based on a Kaggle competition, which can be found here: https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe
+The project is based on a Kaggle competition, which can be found here: https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe.
+The goal of the kaggle competition is to train a regression algorithm which can predict the time to eruption based on seismic activity.
 
 Our approach and most of the reasoning behind it can be found in the main.ipynb notebook.
 
